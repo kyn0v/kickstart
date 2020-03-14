@@ -1,0 +1,3 @@
+# kickstart
+
+Coding Exercise
